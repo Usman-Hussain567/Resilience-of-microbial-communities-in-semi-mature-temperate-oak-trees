@@ -1,4 +1,4 @@
-This repository contains the code and sequencing data used to filter the sequences and generate the data for the paper: "Resilience of microbial communities in semi-mature temperate oak trees to drought, nutrient limitation and pathogen challenge".
+This repository contains the code and sequencing data used to filter the sequences and generate the data for the paper: "Resilience of microbial communities in semi-mature temperate oak trees to drought, nutrient limitation and pathogen challenge" [currently under review]
 
 This respository contains the script used: Resilience_of_microbial_communities_in_semi_mature_temperate_oak_trees.Rmd
 
